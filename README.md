@@ -1,3 +1,3 @@
 # Caculator
 
-[Live demo](http://https://ericliiit.github.io/calculator/)
+[Live demo](https://ericliiit.github.io/calculator/)
